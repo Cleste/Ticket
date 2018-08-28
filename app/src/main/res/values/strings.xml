@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ticket</string>
+    <string name="ticket">TICKET!</string>
+    <string name="_0">0</string>
 </resources>
